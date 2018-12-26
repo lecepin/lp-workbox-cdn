@@ -1,0 +1,30 @@
+{
+  "name": "lp-workbox-cdn",
+  "version": "3.6.3",
+  "description": "lp-workbox-cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "find . -name \"workbox*\" -type d| xargs rm -rf && workbox copyLibraries ./ && node ./bin/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lecepin/lp-workbox-cdn.git"
+  },
+  "keywords": [
+    "workbox",
+    "cdn",
+    "serviceworker",
+    "pwa"
+  ],
+  "author": "lecepin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lecepin/lp-workbox-cdn/issues"
+  },
+  "homepage": "https://github.com/lecepin/lp-workbox-cdn#readme",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "workbox": "^0.0.0"
+  }
+}
