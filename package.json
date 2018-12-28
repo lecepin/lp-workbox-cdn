@@ -25,6 +25,7 @@
   "homepage": "https://github.com/lecepin/lp-workbox-cdn#readme",
   "devDependencies": {
     "chalk": "^2.4.1",
+    "inquirer": "^6.2.1",
     "workbox-cli": "^3.6.3"
   }
 }
