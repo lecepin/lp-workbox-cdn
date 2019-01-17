@@ -1,6 +1,6 @@
 {
   "name": "lp-workbox-cdn",
-  "version": "3.6.3-3",
+  "version": "3.6.3-4",
   "description": "lp-workbox-cdn",
   "main": "workbox/workbox-sw.js",
   "scripts": {

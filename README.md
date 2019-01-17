@@ -1,8 +1,6 @@
 # lp-workbox-cdn
 [![npm (scoped with tag)](https://img.shields.io/npm/v/lp-workbox-cdn.svg)](https://npmjs.com/package/lp-workbox-cdn)
-
 [![NPM downloads](https://img.shields.io/npm/dm/lp-workbox-cdn.svg)](https://npmjs.com/package/lp-workbox-cdn)
-
 [![install size](https://packagephobia.now.sh/badge?p=lp-workbox-cdn)](https://packagephobia.now.sh/result?p=lp-workbox-cdn)
 
 [Workbox](https://developers.google.com/web/tools/workbox)非官方CDN，独立NPM包。
