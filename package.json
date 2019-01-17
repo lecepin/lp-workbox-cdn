@@ -1,6 +1,6 @@
 {
   "name": "lp-workbox-cdn",
-  "version": "3.6.3",
+  "version": "3.6.3-3",
   "description": "lp-workbox-cdn",
   "main": "workbox/workbox-sw.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "serviceworker",
     "pwa"
   ],
-  "author": "lecepin",
+  "author": "lecepin <leping086@vip.qq.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lecepin/lp-workbox-cdn/issues"
