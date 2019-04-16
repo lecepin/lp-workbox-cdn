@@ -1,6 +1,6 @@
 {
   "name": "lp-workbox-cdn",
-  "version": "3.6.3-4",
+  "version": "4.3.0",
   "description": "lp-workbox-cdn",
   "main": "workbox/workbox-sw.js",
   "scripts": {
@@ -26,6 +26,6 @@
   "devDependencies": {
     "chalk": "^2.4.1",
     "inquirer": "^6.2.1",
-    "workbox-cli": "^3.6.3"
+    "workbox-cli": "^4.3.0"
   }
 }
